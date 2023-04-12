@@ -1,0 +1,48 @@
+{
+  "packages": [
+     {
+        "buy": "http://wallabyjs.com/purchase",
+        "description": "Super fast test runner with realtime time code coverage for JavaScript.",
+        "releases": [
+           {
+              "url": "https://s3.amazonaws.com/wallaby-downloads/sublime/Wallaby.sublime-package",
+              "date": "2023-04-11 05:50:50",
+              "version": "1.0.71",
+              "sublime_text": ">=3000"
+           }
+        ],
+        "author": "Wallaby.js",
+        "labels": [
+           "javascript",
+           "testing"
+        ],
+        "readme": "http://wallabyjs.com/sublime/readme.md",
+        "homepage": "http://wallabyjs.com",
+        "name": "Wallaby"
+     },
+     {
+        "buy": "http://quokkajs.com/pro",
+        "description": "Live Scratchpad for JavaScript.",
+        "releases": [
+           {
+              "url": "https://s3.amazonaws.com/wallaby-downloads/sublime/Quokka.sublime-package",
+              "date": "2023-04-11 05:58:36",
+              "version": "1.0.161",
+              "sublime_text": ">=3000"
+           }
+        ],
+        "author": "Wallaby.js",
+        "labels": [
+           "scraptchpad",
+           "playground",
+           "JavaScript",
+           "TypeScript",
+           "REPL"
+        ],
+        "readme": "http://quokkajs.com/sublime/readme.md",
+        "homepage": "http://quokkajs.com",
+        "name": "Quokka"
+     }
+  ],
+  "schema_version": "3.0.0"
+}

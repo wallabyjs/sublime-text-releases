@@ -26,8 +26,8 @@
          "releases": [
             {
                "url": "https://s3.amazonaws.com/wallaby-downloads/sublime/Quokka.sublime-package",
-               "date": "2023-04-11 05:58:36",
-               "version": "1.0.161",
+               "date": "2023-04-12 04:04:04",
+               "version": "1.0.162",
                "sublime_text": ">=3000"
             }
          ],

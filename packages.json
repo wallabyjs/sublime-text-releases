@@ -25,9 +25,9 @@
          "description": "Live Scratchpad for JavaScript.",
          "releases": [
             {
-               "url": "https://github.com/wallabyjs/sublime-text-releases/releases/download/Quokka-1.0.183/Quokka.sublime-package",
-               "date": "2023-12-13 05:53:47",
-               "version": "1.0.183",
+               "url": "https://github.com/wallabyjs/sublime-text-releases/releases/download/Quokka-1.0.184/Quokka.sublime-package",
+               "date": "2023-12-18 22:53:31",
+               "version": "1.0.184",
                "sublime_text": ">=3000"
             }
          ],

@@ -35,9 +35,9 @@
          "labels": [
             "scraptchpad",
             "playground",
-            "JavaScript",
-            "TypeScript",
-            "REPL"
+            "javascript",
+            "typescript",
+            "repl"
          ],
          "readme": "http://quokkajs.com/sublime/readme.md",
          "homepage": "http://quokkajs.com",

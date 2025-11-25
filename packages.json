@@ -5,9 +5,9 @@
          "description": "Super fast test runner with realtime time code coverage for JavaScript.",
          "releases": [
             {
-               "url": "https://github.com/wallabyjs/sublime-text-releases/releases/download/Wallaby-1.0.84/Wallaby.sublime-package",
-               "date": "2025-09-17 01:23:06",
-               "version": "1.0.84",
+               "url": "https://github.com/wallabyjs/sublime-text-releases/releases/download/Wallaby-1.0.85/Wallaby.sublime-package",
+               "date": "2025-11-25 08:25:37",
+               "version": "1.0.85",
                "sublime_text": ">=3000"
             }
          ],
